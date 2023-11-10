@@ -1,0 +1,1 @@
+# This repo only contains SCRIPTS folder. The actual repo for RECORDS APP is in this link: https://github.com/allen-ix/RecordsApp-3
